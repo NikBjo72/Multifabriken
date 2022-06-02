@@ -1,0 +1,17 @@
+1: 2/2p 
+2: 10/10p 
+3: 6/6p 
+4: 5/5p 
+5: 5/5p 
+6: 5/5p 
+7: 5/5p 
+8: 5/5p 
+9: 10/10p 
+10: 2/2p 
+11: 5/5p 
+12: 5/10p — Fel namn - ska heta reflections 
+13: 10/10p — Om möjligheten fanns för bonuspoäng skulle du få det för träd-diagrammet. Snyggt! Även bra språk och utgångspunkt för texten. 
+14: 20/20p — Mycket bra reflektion med motiveringar - tänk på att jag oftast inte är ute efter en personlig reflektion utan mer en objektiv reflektion över den färdiga koden, vad har den för fördelar nackdelar - använd gärna OOP som stöd.
+
+POÄNG: 95
+Omdöme: VG (100 möjliga poäng)
